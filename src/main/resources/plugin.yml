@@ -1,0 +1,8 @@
+name: Formeliude
+version: '${project.version}'
+main: world.ntdi.formeliude.Formeliude
+api-version: 1.16
+prefix: Formeliude
+authors: [ Ntdi ]
+description: The most useful spigot library you'll ever use
+website: ntdi.world
